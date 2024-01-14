@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sparsh Chakraborty</h1>
 <h3 align="center">A 2nd Year Computer Science UnderGrad Student at VIT Chennai. Passionate about Web Development and Blockchain. Exploring the field of ML and Data Science</h3>
 
-- 🔭 I’m currently working on **MRIG 2.0**
+- 🔭 I’m currently working on **VitaFile**
 
 - 🌱 I’m currently learning **Django, Vue and TensorFlow**
 
