@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sparsh Chakraborty</h1>
-<h3 align="center">A 2nd Year Computer Science UnderGrad Student at VIT Chennai. Passionate about Web Development and Blockchain. Exploring the field of ML and Data Science</h3>
+<h3 align="center">A 3rd Year Computer Science UnderGrad Student at VIT Chennai. Passionate about Web Development and Blockchain. Exploring the field of ML and Data Science</h3>
 
 - 🔭 I’m currently working on **VitaFile**
 
